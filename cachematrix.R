@@ -1,3 +1,6 @@
+## function to create a new matrix, and return 4 function to get the value of the matrix, 
+## set the value of the matrix, get the cached inverse of the matrix, and store the inverse in cache
+
 makeCacheMatrix <- function(x = numeric()) {
   i <- NULL ##initiating cached value to NULL
   ##function to store the value of the matrix
